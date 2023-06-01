@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Surya
 - 👀 I’m interested futsal and programming
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on javascript project
 - 📫 Reach me on gedesurya125@gmail.com
 - :earth_asia: Look at my page at https://gedesurya125.github.io/
